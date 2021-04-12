@@ -54,7 +54,7 @@ print("==================== problem 5 ======================")
 
 
 def remove_vowel(args):
-    vowel = ['a', 'o', 'u', 'e', 'i', ]
+    vowel = ['a', 'o', 'u', 'e', 'i', 'I','A','O','U',"E"]
     for i in vowel:
         args = args.replace(i, '')
     print(args)
