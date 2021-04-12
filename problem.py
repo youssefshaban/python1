@@ -48,7 +48,8 @@ split_string("muhadaa")
 
 print("==================== problem 4 ======================")
 
-
+print('run "python3 prob4.py filename")
+      
 print("==================== problem 5 ======================")
 
 
